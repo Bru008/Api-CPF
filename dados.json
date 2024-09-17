@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "cpf": "000.000.000-00",
+        "nome": "Bianca Camargo",
+        "idade": 25,
+        "cidade": "São Paulo",
+        "cargo": "Gerente",
+        "imagem": "<img src='img/gerente.png' width='200px'>"
+    },
+    {
+        "id": 2,
+        "cpf": "111.111.111-11",
+        "nome": "Bruno Oliveira",
+        "idade": 34,
+        "cidade": "Florianopolis",
+        "cargo": "Segurança",
+        "imagem": "<img src='img/seguranca.png' width='200px'>"
+    },
+    {
+        "id": 3,
+        "cpf": "222.222.222-22",
+        "nome": "Marcos Torres",
+        "idade": 29,
+        "cidade": "Diadema",
+        "cargo": "Sub-gerente",
+        "imagem": "<img src='img/subgerente.png' width='200px'>"
+    },
+    {
+        "id": 4,
+        "cpf": "333.333.333-33",
+        "nome": "Olivia Marques",
+        "idade": 36,
+        "cidade": "Hortolandia",
+        "cargo": "Advogada",
+        "imagem": "<img src='img/advogada.png' width='200px'>"
+    },
+    {
+        "id": 5,
+        "cpf": "444.444.444-44",
+        "nome": "Oliver Marques",
+        "idade": 33,
+        "cidade": "Santos",
+        "cargo": "Advogado",
+        "imagem": "<img src='img/advogado.png' width='200px'>"
+    },
+    {
+        "id": 6,
+        "cpf": "555.555.555-55",
+        "nome": "Olivia Martins",
+        "idade": 33,
+        "cidade": "Americana",
+        "cargo": "Supervisora",
+        "imagem": "<img src='img/supervisora.png' width='200px'>"
+    },
+    {
+        "id": 7,
+        "cpf": "666.666.666-66",
+        "nome": "Luna Vieira",
+        "idade": 25,
+        "cidade": "São Paulo",
+        "cargo": "Sub-supervisora",
+        "imagem": "<img src='img/subsupervisora.png' width='200px'>"
+    },
+    {
+        "id": 8,
+        "cpf": "777.777.777-77",
+        "nome": "Luan Paes",
+        "idade": 21,
+        "cidade": "Atibaia",
+        "cargo": "Secretário",
+        "imagem": "<img src='img/secretario.png' width='200px'>"
+    },
+    {
+        "id": 9,
+        "cpf": "888.888.888-88",
+        "nome": "Claudia Paiva",
+        "idade": 27,
+        "cidade": "São Paulo",
+        "cargo": "Secretária",
+        "imagem": "<img src='img/secretaria.png' width='200px'>"
+    },
+    {
+        "id": 10,
+        "cpf": "999.999.999-99",
+        "nome": "Claudio Fernandes",
+        "idade": 38,
+        "cidade": "São Paulo",
+        "cargo": "Sócio",
+        "imagem": "<img src='img/socio.png' width='200px'>"
+    },
+    {
+        "id": 11,
+        "cpf": "101.010.101-01",
+        "nome": "Claudio Fernandes",
+        "idade": 38,
+        "cidade": "São Paulo",
+        "cargo": "Sócio",
+        "imagem": "<img src='img/socio.png' width='200px'>"
+    },
+    {
+        "id": 12,
+        "cpf": "121.212.121-21",
+        "nome": "Noah Smith",
+        "idade": 38,
+        "cidade": "Nova York",
+        "cargo": "Sócio",
+        "imagem": "<img src='img/socio2.png' width='200px'>"
+    },
+    {
+        "id": 13,
+        "cpf": "131.313.131-31",
+        "nome": "Fernando Ferreira",
+        "idade": 46,
+        "cidade": "Salvador",
+        "cargo": "Dono",
+        "imagem": "<img src='img/dono.png' width='200px'>"
+    }
+]
